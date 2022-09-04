@@ -4,8 +4,12 @@
 
 <p align="center">
     <br>
-    <a href="https://tipp-front.herokuapp.com/">🖥 Online Preview</a>
+    <a href="https://63152005c38f744274439fa0--comfy-pika-9ffbda.netlify.app/">🖥 Online Preview</a>
     <br>
+</p>
+
+<p>
+    A layout dedicated to neatly displaying the information provided by Warframe free api.
 </p>
 
 ## Features
