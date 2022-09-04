@@ -16,17 +16,10 @@ export default defineNuxtConfig({
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
   },
-  buildModules: ["nuxt-windicss", "@nuxtjs/pwa"],
+  buildModules: ["nuxt-windicss"],
   runtimeConfig: {
     public: {
       BASE_URL: process.env.NUXT_PUBLIC_BASE_URL,
-    },
-  },
-  pwa: {
-    manifest: {
-      name: "Warframe-api Nuxt3 Windicss",
-      short_name: "WNW",
-      theme_color: "#000000",
     },
   },
 });
